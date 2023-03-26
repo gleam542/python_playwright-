@@ -1,0 +1,18 @@
+{
+  "comics18": {
+    "domain": "https://18comic.vip",
+    "pageTpl": "https://18comic.vip/albums?o=mv&page={}",
+    "startPage": 1,
+    "maxPage": 1,
+    "maxDownloadProc": 5,
+    "maxReqTimeout": 300,
+    "saveBasePath": "C:/Users/gleam/Downloads/img"
+  },
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "db_name": "av_data",
+    "coll": "comics_18",
+    "ok_coll": "comics_18_ok"
+  }
+}
